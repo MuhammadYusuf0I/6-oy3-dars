@@ -1,0 +1,15 @@
+.container-card {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.card-block {
+  align-items: center;
+  justify-content: space-around;
+}
+span {
+  color: black;
+}
+h1 {
+  font-size: 60px;
+}
